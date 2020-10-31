@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  /* font-family: montserrat; */
+  }
+  
+  body{
+  background: linear-gradient(rgba(148,187,233,100), rgba(0,0,0,0.6));
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  /* overflow: hidden; */
+  }
+.mainDiv{
+  width: 100%;
+  color: #fff;
+}
+
+
+
+
+
+@media only screen and (max-width: 570px) {
+  .mainHeader {
+  max-width: 540px;
+   padding: 30px 5px;
+      }
+
+}
