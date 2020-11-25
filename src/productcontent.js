@@ -1,12 +1,12 @@
 import React from 'react';
-import classes from'./productcontent.module.css';
+import classes from './Css/productcontent.module.css';
 
 const Productcontent = (props) => {
-    const  logoPink_src="png/fit_band_pink.png";
-    const  logoBlack_src="png/fit_band_black.png";
-    const  logoBrown_src="png/fit_band_brown.png";
-    const  logoOrange_src="png/fit_band_orange.png";
-    const  Heart_src    =  "png/heart.svg"; 
+    const  logoPink_src="../fitbit_React/png/fit_band_pink.png";
+    const  logoBlack_src="../fitbit_React/png/fit_band_black.png";
+    const  logoBrown_src="../fitbit_React/png/fit_band_brown.png";
+    const  logoOrange_src="../fitbit_React/png/fit_band_orange.png";
+    //const  Heart_src    =  "../fitbit_React/png/heart.svg"; 
 
 
 return(

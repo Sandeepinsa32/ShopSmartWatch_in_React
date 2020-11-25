@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './header';
 import Productpreview from './productpreview';
 import Productcontent from './productcontent';
-import classes from'./App.module.css';
+import classes from './Css/App.module.css';
 
 function App() {
 
@@ -25,5 +25,6 @@ function App() {
 
   );
 }
+
 
 export default App;

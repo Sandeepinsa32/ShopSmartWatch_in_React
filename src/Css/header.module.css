@@ -1,0 +1,57 @@
+.mainHeader{
+  height: 30px;
+  padding: 30px 50px;
+  color: #fff;
+  max-width: 1250px;
+
+}
+.logo
+{
+width: 60px;
+float: left;
+}
+.logo_text
+{
+font-size: 35px;
+float: left;
+font-family: cursive;
+}
+.loginBtn
+{
+  width: 100px;
+    padding: 10px 0;
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color: #fff;
+    float: right;
+    height: 54px;
+    font-size: 26px;
+}
+.loginBtn:hover{
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width: 570px) {
+
+  .mainHeader{
+    padding: 30px 5px;
+    max-width: 400px;
+  
+  }
+  .loginBtn{
+    width: 85px;
+    padding: 7px 0px;
+    height: 42px;
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  .logo_text{
+    font-size: 26px;
+  }
+  .logo{
+    width: 45px;
+   }
+}

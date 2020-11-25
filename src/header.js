@@ -1,8 +1,9 @@
 import React from 'react';
-import classes from'./header.module.css';
+import classes from './Css/header.module.css';
 
 const Header = (props) => {
-    const  logoPink_src="png/fit_band_pink.png";
+    const  logoPink_src="../fitbit_React/png/fit_band_pink.png";
+    // /fitbit_React/png/fit_band_pink.png
     return(
         <div className={classes.header}>
 

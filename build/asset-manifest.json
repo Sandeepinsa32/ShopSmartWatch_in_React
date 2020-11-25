@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fitbit_React/static/css/main.80e9cc61.chunk.css",
+    "main.js": "/fitbit_React/static/js/main.c7800d65.chunk.js",
+    "main.js.map": "/fitbit_React/static/js/main.c7800d65.chunk.js.map",
+    "runtime-main.js": "/fitbit_React/static/js/runtime-main.82ac19cc.js",
+    "runtime-main.js.map": "/fitbit_React/static/js/runtime-main.82ac19cc.js.map",
+    "static/js/2.622186f0.chunk.js": "/fitbit_React/static/js/2.622186f0.chunk.js",
+    "static/js/2.622186f0.chunk.js.map": "/fitbit_React/static/js/2.622186f0.chunk.js.map",
+    "index.html": "/fitbit_React/index.html",
+    "precache-manifest.3b2ca7dc63e8e40e558df4bd1119e7f6.js": "/fitbit_React/precache-manifest.3b2ca7dc63e8e40e558df4bd1119e7f6.js",
+    "service-worker.js": "/fitbit_React/service-worker.js",
+    "static/css/main.80e9cc61.chunk.css.map": "/fitbit_React/static/css/main.80e9cc61.chunk.css.map",
+    "static/js/2.622186f0.chunk.js.LICENSE.txt": "/fitbit_React/static/js/2.622186f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82ac19cc.js",
+    "static/js/2.622186f0.chunk.js",
+    "static/css/main.80e9cc61.chunk.css",
+    "static/js/main.c7800d65.chunk.js"
+  ]
+}
